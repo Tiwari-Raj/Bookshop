@@ -87,6 +87,8 @@
 		</a>
 	</div>
 	<!--  -->
+	
+	
 	<div class="text-dark crd-hr">
 		<hr>
 	</div>
